@@ -1,4 +1,4 @@
-# try_app
+# Lottery APP
 
 A new Flutter project.
 
